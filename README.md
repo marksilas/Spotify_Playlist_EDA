@@ -1,4 +1,4 @@
 # Spotify_Playlist_EDA
-Spotify is a non-free Swedish audio streaming and media services provider founded on 23 April 2006 by Daniel Ek and Martin Lorentzon. It is one of the largest music streaming service providers, with over 422 million monthly active users, including 182 million paying subscribers, as of March 2022. 
+Daniel Ek and Martin Lorentzon created Spotify, a non-free Swedish audio streaming and media services provider, on April 23, 2006. As of March 2022, it had over 422 million monthly active users, including 182 million paid members, making it one of the top music streaming service providers.
 
-This project shows us how to extract a playlist dataset from the spotify platform and perform exploratory data aanalysis on the features. Particularly, this projects extract the data of a playlsist 'Hot Naija Hits' and examines the characterisitics of the songs.
+This project demonstrates how to extract a Spotify playlist dataset and perform exploratory data analysis on the features. This project, in particular, extracts data from a playlist called "Hot Naija Hits" and investigates the features of the songs.
